@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Youssef Sayed</h1>
-<h3 align="center">A back end web developer</h3>
+<h3 align="center">A full stack developer</h3>
 
 - 🔭 I worked on [PHOTO STUDIO](https://vigilant-einstein-0423ac.netlify.app/)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **PHP and MySQl**
 
-- 🔭 I worked on [e commerce](https://serene-blackwell-80b98b.netlify.app/)
+- 🔭 I worked on [e-commerce](https://serene-blackwell-80b98b.netlify.app/)
 
 - 🔭 I worked on [Chain](https://subtle-raindrop-c2f6cf.netlify.app/)
 
-- 💬 Ask me about **Html , Css  ,Scss , Bootstrap, PHP ,MySql ,jquery **
+- 💬 Ask me about **Html , Css  ,Scss , Bootstrap, PHP ,MySql ,Jquery  **
 
 - 📫 How to reach me **sayedyousef775@gmail.com**
 
