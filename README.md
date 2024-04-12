@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Youssef Sayed</h1><br><h3 align="center">A full stack developer</h3><br><br>- 🌱 I’m currently learning *PHP and MySQl*<br><br>- 🔭 I worked on [e-commerce]<br><br>- 💬 Ask me about **Html , Css  , Scss , Bootstrap , PHP , MySql  , Jquery  **<br><br>- 📫 How to reach me **sayedyousef775@gmail.com**<br><br>- ⚡ fact *I love coding*<br>
+<h1 align="center">Hi 👋, I'm Youssef Sayed</h1><br><h3 align="center">A backend developer</h3><br><br>- 🌱 I’m currently learning *PHP , MySQl and Laravel*<br><br>- 🔭 I worked on [e-commerce]<br><br>- 💬 Ask me about **Html , Css  , Scss , Bootstrap , PHP , MySql  , Jquery  **<br><br>- 📫 How to reach me **sayedyousef775@gmail.com**<br><br>- ⚡ fact *I love coding*<br>
 
 
 ## 🌐 Socials:
